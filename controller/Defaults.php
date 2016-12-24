@@ -11,7 +11,7 @@ class DefaultsController extends \Tuanduimao\Loader\Controller {
 	function __construct() {
 	}
        function test(){
- echo “hello”;
+ echo “hello world”;
 
 }
 	function index() {
